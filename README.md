@@ -11,7 +11,7 @@ Il comprend les exercices 1 à 6 et met en œuvre la programmation orientée obj
 ## 📋 Les tâches à faire
 - Créer une classe Compte dans un dossier spécifique pour appliquer le principe d'encapsulation en POO.
 - Créer une classe Personne dans un dossier pour illustrer l'héritage en programmation orientée objet (POO).
-
+- Créer une classe **Etudiant** qui hérite de **Personne** afin de démontrer le polymorphisme en POO.
 ## 📂 Structure du projet
 
 ## 🗄️ Base de données
