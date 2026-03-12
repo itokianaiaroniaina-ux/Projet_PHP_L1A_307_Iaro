@@ -20,4 +20,4 @@ Il comprend les exercices 1 à 6 et met en œuvre la programmation orientée obj
 ## 🗄️ Base de données
 
 ## 👨‍💻 Auteur
-Mitia L1A-307
+Iaro L1A-307
