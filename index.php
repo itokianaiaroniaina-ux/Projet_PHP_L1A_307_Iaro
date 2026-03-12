@@ -1,5 +1,5 @@
 <?php
-    require_once 'Encapuslation/Compte.php';
+    require_once './Encapsulation/Compte.php';
 ?>
 
 
@@ -16,6 +16,9 @@
     <h1>Project PHP</h1>
 
     <!-- Encpasulation -->
+    <div>
+        <h2></h2>
+    </div>
 
 </body>
 </html>
