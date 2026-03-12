@@ -21,3 +21,5 @@ Il comprend les exercices 1 à 6 et met en œuvre la programmation orientée obj
 
 ## 👨‍💻 Auteur
 Iaro L1A-307
+
+##NB:Voici le lien pour voir les resultat sur localhost:http://localhost/Projet_PHP_L1A_307_Iaro/index.php
