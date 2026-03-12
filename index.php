@@ -1,7 +1,3 @@
-<?php
-    require_once 'Encapsulation/'
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
