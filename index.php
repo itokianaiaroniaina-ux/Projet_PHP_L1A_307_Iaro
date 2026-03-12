@@ -1,3 +1,8 @@
+<?php
+    require_once 'Encapuslation/Compte.php';
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
