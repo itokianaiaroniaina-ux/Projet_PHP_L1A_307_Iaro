@@ -1,4 +1,4 @@
-# Projet_PHP_L1A-297_Mitia
+# Projet_PHP_L1A-307_Iaro
 
 ## 📜 Description
 Ce projet a été réalisé dans le cadre d'un examen pratique. 
@@ -20,4 +20,4 @@ Il comprend les exercices 1 à 6 et met en œuvre la programmation orientée obj
 ## 🗄️ Base de données
 
 ## 👨‍💻 Auteur
-Mitia L1A-297
+Mitia L1A-307
